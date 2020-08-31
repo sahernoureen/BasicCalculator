@@ -1,0 +1,8 @@
+C:\Users\saher\Documents\SD2019\Back-End\Applied Mvc1\BasicCalculator\BasicCalculator\bin\Release\BasicCalculator.exe.config
+C:\Users\saher\Documents\SD2019\Back-End\Applied Mvc1\BasicCalculator\BasicCalculator\bin\Release\BasicCalculator.exe
+C:\Users\saher\Documents\SD2019\Back-End\Applied Mvc1\BasicCalculator\BasicCalculator\bin\Release\BasicCalculator.pdb
+C:\Users\saher\Documents\SD2019\Back-End\Applied Mvc1\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.Form1.resources
+C:\Users\saher\Documents\SD2019\Back-End\Applied Mvc1\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.Properties.Resources.resources
+C:\Users\saher\Documents\SD2019\Back-End\Applied Mvc1\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\saher\Documents\SD2019\Back-End\Applied Mvc1\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.exe
+C:\Users\saher\Documents\SD2019\Back-End\Applied Mvc1\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.pdb
